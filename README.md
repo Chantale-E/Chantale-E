@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chanti-E
+- 👋 Hi, I’m @Chantale
 - 👀 I’m interested in expanding my coding skills, 
 - 🌱 I’m currently learning Python hoping to learn more in the future
 
